@@ -1,0 +1,7 @@
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\obj\Debug\ConsoleApp_DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\obj\Debug\ConsoleApp_DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\bin\Debug\ConsoleApp_DoWhileLoops.exe.config
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\bin\Debug\ConsoleApp_DoWhileLoops.exe
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\bin\Debug\ConsoleApp_DoWhileLoops.pdb
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\obj\Debug\ConsoleApp_DoWhileLoops.exe
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp_DoWhileLoops\obj\Debug\ConsoleApp_DoWhileLoops.pdb
