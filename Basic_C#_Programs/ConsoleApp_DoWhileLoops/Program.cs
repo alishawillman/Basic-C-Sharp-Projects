@@ -54,7 +54,54 @@ namespace ConsoleApp_DoWhileLoops
             }
             //While loop 
             while (!isGuessed); //Shorthand for (isGuessed == false)
-      
+
+
+            Console.WriteLine("Now guess my favorite number!");
+            int number = Convert.ToInt32(Console.ReadLine());
+            bool numGuessed = number == 8;
+
+            //While loop
+            while (!numGuessed)
+            {
+                switch (number)
+                {
+                    case 27:
+                        Console.WriteLine("You guessed 27, but that's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 55:
+                        Console.WriteLine("You guessed 55, but that's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 107:
+                        Console.WriteLine("You guessed 107, but that's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 88:
+                        Console.WriteLine("You guessed 88, but that's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 8:
+                        Console.WriteLine("You guessed 8! That's correct!");
+                        isGuessed = true;
+                        break;
+                    case 322:
+                        Console.WriteLine("You guessed 322, but that's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    default:
+                        Console.WriteLine("That's incorrect! Try again!");
+                        Console.WriteLine("Guess my favorite number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            }
+
 
             Console.Read();
         }
