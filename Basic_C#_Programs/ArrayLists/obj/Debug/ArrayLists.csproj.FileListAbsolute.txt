@@ -1,0 +1,7 @@
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\bin\Debug\ArrayLists.exe.config
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\bin\Debug\ArrayLists.pdb
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\obj\Debug\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\obj\Debug\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\obj\Debug\ArrayLists.exe
+C:\Users\14065\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ArrayLists\obj\Debug\ArrayLists.pdb
